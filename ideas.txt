@@ -1,0 +1,9 @@
+have the color change depending on the time of day
+
+light blue - morning
+
+warmish yellow - noon
+
+indigo - evening
+
+dark blue - night
